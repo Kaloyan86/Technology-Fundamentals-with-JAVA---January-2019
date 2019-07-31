@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aecb2d45-0995-4273-9d21-359aaca9d41a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TechModule$Ex7AppendArrays.ic" NAME="Ex7AppendArrays Coverage Results" MODIFIED="1550526014951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lists.Exercise.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TechModule$P2Deciphering.ic" NAME="P2Deciphering Coverage Results" MODIFIED="1554541867084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ExamPrep.DemoTechFundFinalExam06April2019.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TechModule$Lab.ic" NAME="Lab Coverage Results" MODIFIED="1549225308868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Arrays2018.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TechModule" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FinalExamPrep/TechnFundRetakeFinalExam20Dec2018/P1VaporWinterSale.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ExamPrep/ProgFundAdditionalRetakExam10January2019Part2/P3.java" />
+        <option value="$PROJECT_DIR$/src/ExamPrep/ProgFundAdditionalRetakExam10January2019Part2/demo.java" />
+        <option value="$PROJECT_DIR$/src/MidExam10March2019/P2.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab1CountRealNumbers.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab2WordSynonyms.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab3OddOccurrences.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab4WordFilter.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab5Largest3Numbers.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex2AMinerTask.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex1CountCharsInAString.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex3LegendaryFarming.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex4Orders.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex5SoftUniParking.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex6Courses.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex7StudentAcademy.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex8CompanyUsers.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex9ForceBook.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex10SoftUniExamResult.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab1RepeatStrings.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab2Substring.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab3ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab4TextFilter.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab5DigitsLettersAndOther.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab6MatchFullName.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab7MatchPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab8MatchDates.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab9MatchNumbers.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex1ValidUsernames.java" />
+        <option value="$PROJECT_DIR$/src/Methods/Ex5AddAndSubtract.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex2CharacterMultiplier.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex3ExtractFile.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex4CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex7StringExplosion.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex6ReplaceRepeatingChars.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex5MultiplyBigNumber.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex8ExtractEmails.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex9Furniture.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex10Race.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex11SoftUniBarIncome.java" />
+        <option value="$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex12StarEnigma.java" />
+        <option value="$PROJECT_DIR$/src/ExamPrep/DemoTechFundFinalExam06April2019/P1Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/ExamPrep/DemoTechFundFinalExam06April2019/P2Deciphering.java" />
+        <option value="$PROJECT_DIR$/src/FinalExamPrep/TechFundFinalExam16December2018/P1Concert.java" />
+        <option value="$PROJECT_DIR$/src/FinalExamPrep/TechFundFinalExam16December2018/P2SongEncryption.java" />
+        <option value="$PROJECT_DIR$/src/FinalExamPrep/TechnFundRetakeFinalExam20December2018/P1VaporWinterSale.java" />
+        <option value="$PROJECT_DIR$/src/FinalExamPrep/TechnFundRetakeFinalExam20Dec2018/P1VaporWinterSale.java" />
+        <option value="$PROJECT_DIR$/src/FinalExamPrep/TechnFundRetakeFinalExam20Dec2018/P2ActivationKeys.java" />
+        <option value="$PROJECT_DIR$/src/FinalExamPrep/ProgFundRetakeExam27August2018PartII/P3PostOffice.java" />
+        <option value="$PROJECT_DIR$/src/AssociativeArrays/MoreExercise/Ex5DragonArmy.java" />
+        <option value="$PROJECT_DIR$/src/TechFundFinalExam14April2019/P1.java" />
+        <option value="$PROJECT_DIR$/src/TechFundFinalExam14April2019/P2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="550" />
+    <option name="y" value="4" />
+    <option name="width" value="726" />
+    <option name="height" value="630" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TechModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechModule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TechModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TechModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalExamPrep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TechModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalExamPrep" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgFundRetakeExam27August2018PartII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TechModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalExamPrep" type="462c0819:PsiDirectoryNode" />
+              <item name="TechFundFinalExam16December2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TechModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalExamPrep" type="462c0819:PsiDirectoryNode" />
+              <item name="TechnFundRetakeFinalExam20Dec2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="inspection&#9;ACTION&#9;RunInspection" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564593800187" />
+    <property name="last.edited.regexp" value="\\" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ex2AMinerTask">
+    <configuration name="Ex2AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.Exercises.Ex2AMinerTask" />
+      <module name="TechModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssociativeArrays.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5DragonArmy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.MoreExercise.Ex5DragonArmy" />
+      <module name="TechModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssociativeArrays.MoreExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TechFundFinalExam14April2019.P1" />
+      <module name="TechModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TechFundFinalExam14April2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TechFundFinalExam14April2019.P2" />
+      <module name="TechModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TechFundFinalExam14April2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3PostOffice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPrep.ProgFundRetakeExam27August2018PartII.P3PostOffice" />
+      <module name="TechModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalExamPrep.ProgFundRetakeExam27August2018PartII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.P3PostOffice" />
+      <item itemvalue="Application.Ex5DragonArmy" />
+      <item itemvalue="Application.P1" />
+      <item itemvalue="Application.P2" />
+      <item itemvalue="Application.Ex2AMinerTask" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex2AMinerTask" />
+        <item itemvalue="Application.P2" />
+        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.Ex5DragonArmy" />
+        <item itemvalue="Application.P3PostOffice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aecb2d45-0995-4273-9d21-359aaca9d41a" name="Default Changelist" comment="" />
+      <created>1548361156261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548361156261</updated>
+      <workItem from="1553622839623" duration="19905000" />
+      <workItem from="1553889480829" duration="30274000" />
+      <workItem from="1554414379321" duration="11304000" />
+      <workItem from="1554530122277" duration="19418000" />
+      <workItem from="1554911775910" duration="1338000" />
+      <workItem from="1554914062631" duration="317000" />
+      <workItem from="1555076453407" duration="46916000" />
+      <workItem from="1555221812989" duration="4731000" />
+      <workItem from="1555226620777" duration="13000" />
+      <workItem from="1558021990439" duration="415000" />
+      <workItem from="1558029962323" duration="181000" />
+      <workItem from="1558093804271" duration="626000" />
+      <workItem from="1558128240796" duration="411000" />
+      <workItem from="1558134874746" duration="113000" />
+      <workItem from="1559062475348" duration="6582000" />
+      <workItem from="1559501872614" duration="917000" />
+      <workItem from="1559818039718" duration="24000" />
+      <workItem from="1559842005525" duration="2382000" />
+      <workItem from="1560372881613" duration="1298000" />
+      <workItem from="1560694649377" duration="230000" />
+      <workItem from="1560697557467" duration="23000" />
+      <workItem from="1560770350263" duration="28000" />
+      <workItem from="1560772124215" duration="715000" />
+      <workItem from="1561121424327" duration="140000" />
+      <workItem from="1561195308764" duration="119000" />
+      <workItem from="1563996235123" duration="258000" />
+      <workItem from="1564593398997" duration="252000" />
+      <workItem from="1564593768765" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="148997000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" x="525" y="58" width="229" height="644" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.24453124" />
+      <window_info id="Structure" order="1" sideWeight="0.5015528" side_tool="true" weight="0.38106796" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.5015528" side_tool="true" weight="0.19498383" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.33540374" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42701864" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32919255" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008091" side_tool="true" weight="0.3136646" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32919255" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32919255" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32919255" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays2019/Ex1Train.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays2019/Ex3ZigZagArrays.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays2019/Ex6EqualSum.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays2019/Ex7MaxSequenceOfEqualElements.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays2019/Lab.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Methods/Ex2/VowelsCount.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Methods/Ex4PasswordValidator.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Methods/Ex6MiddleCharacters.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Methods/Ex8FactorialDivision.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Methods/Ex9PalindromeIntegers.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/Lab/Lab2GaussTrick.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/Lab/Lab5ListManipulationAdvanced.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/Exercise/Ex4ListOperations.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/Exercise/Ex8AnonymousThreat.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/Exercise/Ex9PokemonDontGo.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/Lab/Lab6Students2.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/DemoTechnologyFundamentalsMidExam02March2019/P3CookingFactory.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/RetakeMidExam18December2018/P1ChristmasSpirit.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/RetakeMidExam18December2018/P3PresentDelivery.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/Exercise/Ex10SoftUniCoursePlanning.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ProgFundAdditionalRetakExam10January2019Part1/P1SantasCookies.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ProgFundAdditionalRetakExam10January2019Part1/P2SantasGifts.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ProgFundAdditionalRetakExam10January2019Part2/P2SantasNewList.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExam10March2019/P2.java</url>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExam10March2019/P3.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab1CountRealNumbers.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex7StudentAcademy.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex9ForceBook.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex10SoftUniExamResult.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex3LegendaryFarming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex5SoftUniParking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab2WordSynonyms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Methods/Ex11ArrayManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/Lab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/ArraysPrep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/arrayLab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Methods/Ex8FactorialDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Methods/Ex9PalindromeIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObjectsAndClasses/Lab/Lab3BigFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex6ReplaceRepeatingChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex5MultiplyBigNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex9Furniture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab6MatchFullName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab7MatchPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab8MatchDates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab3ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab2Substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab1RepeatStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TechFundFinalExam14April2019/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TechFundFinalExam14April2019/P1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Lab/Lab5DigitsLettersAndOther.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextProcesingRegex/Exercise/Ex12StarEnigma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Lab/Lab4WordFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex1CountCharsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex6Courses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/MoreExercise/Ex5DragonArmy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex10SoftUniExamResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObjectsAndClasses/Exercises/Ex3OpinionPoll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="44" column="58" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObjectsAndClasses/Exercises/Ex6VehicleCatalogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex2AMinerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex7StudentAcademy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex9ForceBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Lab/Lab6ListOfProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Lab/Lab5ListManipulationAdvanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex9PokemonDontGo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex10SoftUniCoursePlanning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex1Train.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex5BombNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex6CardsGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/Ex7MaxSequenceOfEqualElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/Ex8MagicSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssociativeArrays/Exercises/Ex8CompanyUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/Ex4ArrayRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex3HouseParty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex2ChangeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Exercise/Ex4ListOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays2019/Ex10LadyBugs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalExamPrep/TechnFundRetakeFinalExam20Dec2018/P2ActivationKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalExamPrep/ProgFundRetakeExam27August2018PartII/P3PostOffice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalExamPrep/TechnFundRetakeFinalExam20Dec2018/P1VaporWinterSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TechModule</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
